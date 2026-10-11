@@ -1,0 +1,37 @@
+15. Java 8 coding questions you should practice
+
+1. Find even numbers from a list. 2/10
+2. Find odd numbers.2/10
+3. Find numbers greater than 50. 2/10
+4. Remove duplicates. 2/10
+5. Sort a list. 2/10
+6. Sort in descending order. 2/10
+7. Convert strings to uppercase. 2/10
+8. Count elements. 2/10
+9. Find maximum number. 2/10
+10. Find minimum number. 2/10
+
+Medium
+11. Find duplicate numbers. 2/10
+12. Find duplicate strings. 2/10
+13. Count frequency of each word. 2/10
+14. Find first non-repeated character.
+15. Find first repeated character.
+16. Find second-highest number. 2/10
+17. Find second-lowest number. 2/10
+18. Find the longest string. 2/10
+19. Find strings starting with "A". 2/10
+20. Find sum of all numbers. 2/10
+
+Very useful for QA interviews
+
+21. Convert:List<String>to: List<Integer> 29/2
+22. Convert a list to a Set. 29/2
+23. Convert a list into a Map. 29/2
+24. Group employees by department.
+25. Count employees by department.
+26. Partition numbers into even and odd. 29/2
+27. Find common elements between two lists. 29/2
+28. Find elements present in one list but not another. 29/2
+29. Sort objects based on a field.
+30. Find duplicate values from API response data.

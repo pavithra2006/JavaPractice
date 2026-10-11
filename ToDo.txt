@@ -1,0 +1,287 @@
+11) find 1st repeated character 29/9
+12) check whether string contains only digitals 29/9
+13) count words in a string 29/9
+14) find longest word in sentence 29/9
+15) find largest and smallets lenght word 29/9
+16) remove spaces from string 29/9
+17) swap 2 string without 3rd variable 29/9
+18) check string contains another string 29/9
+19) replace / remove particular character 29/9
+20) find frequency of each word 29/9
+
+2. Arrays — VERY IMPORTANT
+21. Find largest number in an array
+22. Find smallest number
+23. Find second largest number
+24. Find second smallest number
+25. Find duplicate elements
+26. Remove duplicates
+27. Find missing number from 1–N
+28. Sort an array without using Arrays.sort()
+29. Reverse an array
+30. Find sum of array elements
+31. Find average
+32. Count even and odd numbers
+33. Separate even and odd numbers
+34. Find common elements between two arrays
+35. Merge two arrays
+36. Find unique elements
+37. Find pairs whose sum equals a given number
+38. Move all zeros to the end
+39. Find maximum difference between two elements
+40. Check whether two arrays are equal
+
+
+Priority: ⭐⭐⭐⭐⭐
+
+
+---
+
+3. Numbers — MUST KNOW
+
+41. Check prime number
+
+
+42. Print prime numbers between 1–100
+
+
+43. Check Armstrong number
+
+
+44. Check palindrome number
+
+
+45. Reverse a number
+
+
+46. Find factorial
+
+
+47. Generate Fibonacci series
+
+
+48. Find sum of digits
+
+
+49. Count digits in a number
+
+
+50. Swap two numbers without third variable
+
+
+51. Check even/odd
+
+
+52. Find GCD/HCF
+
+
+53. Find LCM
+
+
+54. Check perfect number
+
+
+55. Find duplicate digits
+
+
+
+Priority: ⭐⭐⭐⭐
+
+
+---
+
+4. Collections — VERY IMPORTANT for automation interviews
+
+56. Remove duplicates from ArrayList
+
+
+57. Find duplicate elements using HashSet
+
+
+58. Count frequency using HashMap
+
+
+59. Sort an ArrayList
+
+
+60. Sort a HashMap by key
+
+
+61. Sort a HashMap by value
+
+
+62. Find maximum/minimum value in a HashMap
+
+
+63. Iterate through HashMap
+
+
+64. Convert Array → ArrayList
+
+
+65. Convert ArrayList → Array
+
+
+66. Find common elements between two Lists
+
+
+67. Remove duplicates while preserving insertion order
+
+
+68. Find frequency of words using HashMap
+
+
+69. Find the first non-repeated character using LinkedHashMap
+
+
+70. Find duplicate values in a List
+
+
+
+Priority: ⭐⭐⭐⭐⭐
+
+
+---
+
+5. Java 8 — MUST for 7-year QA
+
+Practice solving these using Streams/Lambda:
+
+71. Find duplicate numbers using Stream
+
+
+72. Find unique numbers
+
+
+73. Find maximum number
+
+
+74. Find minimum number
+
+
+75. Find second highest number
+
+
+76. Sort a List
+
+
+77. Reverse a List
+
+
+78. Filter even numbers
+
+
+79. Count elements
+
+
+80. Remove duplicates using distinct()
+
+
+81. Convert List of Strings to uppercase
+
+
+82. Find Strings starting with a particular character
+
+
+83. Find frequency of characters using Streams
+
+
+84. Find frequency of words
+
+
+85. Find common elements between two Lists
+
+
+86. Find sum/average of numbers
+
+
+87. Find first element matching a condition
+
+
+88. Find longest String from a List
+
+
+
+Priority: ⭐⭐⭐⭐⭐
+
+
+---
+
+6. QA/Automation-specific Java programs
+
+These are particularly useful because interviewers may connect Java questions to your automation work:
+
+89. Read a text file and count words
+
+
+90. Read Excel data and find duplicate values
+
+
+91. Compare two Lists and find differences
+
+
+92. Compare two JSON response values
+
+
+93. Find duplicate test-case IDs
+
+
+94. Remove duplicate test data
+
+
+95. Create a reusable method to generate random test data
+
+
+96. Generate random email/mobile number
+
+
+97. Parse a URL and extract domain
+
+
+98. Extract query parameters from a URL
+
+
+99. Read properties from .properties file
+
+
+100. Create a simple custom exception
+
+
+101. Implement Singleton class
+
+
+102. Create POJO and use getters/setters
+
+
+103. Create an immutable class
+
+
+104. Use interface + implementation example
+
+
+105. Demonstrate method overloading/overriding
+
+
+
+#	Program	Priority
+9	Largest array element	🔥
+10	Second largest	🔥
+11	Duplicate array elements	🔥
+12	Missing number	🔥
+13	Reverse array	⭐
+14	Common elements	🔥
+15	Pair with given sum	🔥
+16	Move zeros to end	⭐
+17	Prime number	🔥
+18	Fibonacci	⭐
+19	Factorial	⭐
+20	Armstrong	⭐
+22	Remove duplicates using Set	🔥
+23	Sort Map by value	⭐
+24	Common elements between Lists	🔥
+25	Second highest using Stream	🔥
+26	Duplicate elements using Stream	🔥
+27	Filter even numbers using Stream	🔥
+28	Sort List using Stream	🔥
+29	Find max/min using Stream	🔥
+30	Compare two Lists	🔥
